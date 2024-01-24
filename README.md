@@ -1,7 +1,7 @@
 # master-thesis
 This repo contains all code for the implementation done in Master's Thesis.
 
-Source of datasets for Graph Generation:
+Source of datasets for Graph Generation in approach_2 and approach_3:
 - DBLP and IMDB : https://github.com/lingchen0331/HGEN
 - PubMed : https://github.com/yangji9181/HNE/tree/master/Data
   
