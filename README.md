@@ -3,11 +3,11 @@ This repo contains all code for the implementation done in Master's Thesis.
 
 Source of datasets 
 
-1. Graph Generation in approach_2 and approach_3:
+1. Graph Generation:
 - DBLP and IMDB : https://github.com/lingchen0331/HGEN
 - PubMed : https://github.com/yangji9181/HNE/tree/master/Data
 
-2. Node Feature Generation for all approaches:
+2. Node Feature Generation:
 - DBLP : https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.DBLP.html
 - IMDB : https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.IMDB.html
 - PubMed : https://github.com/yangji9181/HNE/tree/master/Data
