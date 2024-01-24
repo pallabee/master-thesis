@@ -13,13 +13,14 @@ Source of datasets
 - PubMed : https://github.com/yangji9181/HNE/tree/master/Data
   
 Instructions to run code
-1. To run all jupyter notebooks create a conda environment using
+1. To run all jupyter notebooks create a conda environment
    <br />
    conda create --name myenv --file requirements.txt
    <br />
    conda activate myenv
    <br />
+  jupyter notebook
+   <br />
 
-
-2. To run code for diffusion_graph_gen and diffusion_node_feature_gen in approach_3, follow the installation steps of DiGress: https://github.com/cvignac/DiGress
-3. Use the .dat files from the datasets for Graph Generation wherever .dat files are present in code, e.g. dataset_link.dat, dataset_node.dat 
+3. To run code for diffusion_graph_gen and diffusion_node_feature_gen in approach_3, follow the installation steps of DiGress: https://github.com/cvignac/DiGress
+4. Use the .dat files from the datasets for Graph Generation wherever .dat files are present in code, e.g. dataset_link.dat, dataset_node.dat 
