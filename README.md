@@ -17,5 +17,6 @@ Instructions to run code
    <br />
    conda create --name myenv --file requirements.txt
    <br />
-3. For approaches 2 and 3, use the .dat files from the datsets for graph generation wherever .dat files are present, like dataset_link.dat,dataset_node.dat 
-4. To run code for diffusion_graph_gen and diffusion_node_feature_gen in approach_3, follow the installation steps of DiGress: https://github.com/cvignac/DiGress
+
+2. To run code for diffusion_graph_gen and diffusion_node_feature_gen in approach_3, follow the installation steps of DiGress: https://github.com/cvignac/DiGress
+3. Use the .dat files from the datsets for graph generation wherever .dat files are present, like dataset_link.dat,dataset_node.dat 
