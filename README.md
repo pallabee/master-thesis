@@ -23,4 +23,4 @@ Instructions to run code
    <br />
 
 3. To run code for diffusion_graph_gen and diffusion_node_feature_gen in approach_3, follow the installation steps of DiGress: https://github.com/cvignac/DiGress
-4. Use the .dat files from the datasets for Graph Generation wherever .dat files are present in code, e.g. dataset_link.dat, dataset_node.dat 
+4. Use the .dat files from the datasets for Graph Generation wherever .dat files are present in code, e.g. {dataset}_link.dat, {dataset}_node.dat 
